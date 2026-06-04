@@ -1,0 +1,1 @@
+This application does not collect, store, transmit, or share any personal information. All calculations are performed locally within your browser. No user data is sent to external servers. The application may use browser storage to save user preferences and settings. By using this application, you agree to this privacy policy.
